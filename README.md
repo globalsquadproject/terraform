@@ -2,6 +2,7 @@
 
 * Presentation
 
+Speaker: Aliaksandra Kharushka
 
 🌍 CONNECT WITH US:
 * Join our Slack Workspace - https://join.slack.com/t/globalsquadproject/shared_invite/zt-1e27kui5g-K1nMyKHDql9i9Chl_OibDA
